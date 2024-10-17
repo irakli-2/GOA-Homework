@@ -1,15 +1,14 @@
-name = "salome"
-surname = "maisuradze"
+name = "irakli"
+surname = "chkoidze"
 
 #print(name)
 #The print function is passed an object to be displayed on the screen
 
 
-name = "salome"
-surname = "maisuradze"
-age = 14 
-height = 58.8
-
+name = "irakli"
+surname = "chkoidze"
+age = 18
+height = 70
 loves_freedom = True 
 likes_geography = False 
 
