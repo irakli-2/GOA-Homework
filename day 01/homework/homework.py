@@ -1,33 +1,16 @@
-name= "irakli"
-#name არის ცვლადი
-# = არის ცვლადისთვის მიმნიჭებელი სიმბოლო
-# "irakli" არის ცვლადისთვის მნიშვნელობა
-
-surname= "chkoidze"
+name = "salome"
+surname = "maisuradze"
 
 #print(name)
-#პრინტ ფუნქციას გადაეცემა ეკრანზე გამოსატანი ობიექტი
-
-name= "irakli" # ეს არის str(string) ტიპის ცვლადი
-age = 11 #ეს არის int( integer ) მთელი რიცხვი
-height = 180.5 #ეს არის float ტიპის ცვლადი (ათწილადი)
-#boolean (bool) ტიპის ცვლადი
-
-knows_programming = True #true or false
-is_ugly = False #snakecase( უბრალოდ წერის სტილი სტანდარტულად )
-
-is_ugly =False # ჯავასკრიპტული camelcase
+#The print function is passed an object to be displayed on the screen
 
 
-#print(name + " " + surname)
+name = "salome"
+surname = "maisuradze"
+age = 14 
+height = 58.8
 
-#სტრინგი არის ბრჭყალებში მოქცეული სიმბოლოები 
-##print(name + age)
+loves_freedom = True 
+likes_geography = False 
 
-# print(type(age))
-#print(type(name))
-#print(type(surname))
-#print(type(height))
-#print(type(knows_programming))
-
-print(name + " " + str(age))
+print(name + " " + surname + " " + str(age) + " " + str(height))
